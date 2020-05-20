@@ -6,9 +6,7 @@ Google ドライブディレクトリインデックス
 
 ## クイックデプロイメント 
 1.https://installen.gd.workers.dev/ を聞く
-
 2.認証してコードを取得する  
-
 3.コードを[Cloudflare Workers](https://www.cloudflare.com/) に配置する
 
 ## Cloudflare Workerについて 
