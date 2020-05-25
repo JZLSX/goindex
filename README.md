@@ -11,4 +11,4 @@ Google ドライブディレクトリインデックス
 
 
 ## Cloudflare Workerについて 
-Cloudflare Workerは、Cloudflareの150以上のグローバルデータセンター上で動作するJavaScriptを書くことができます。 
+Cloudflare Workerを利用して、Cloudflareの150以上のグローバルデータセンター上で動作するJavaScriptを書くことができます。 
